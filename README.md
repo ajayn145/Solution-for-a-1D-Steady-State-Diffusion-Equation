@@ -55,4 +55,14 @@ xlabel("number of nodes (n)")
 ylabel("velocity (U)")
 title("1D Steady State Diffusion Equation - The solution obtained is the equation of straight line")
 
+%%
+%Code in MATLAB
+![image](https://user-images.githubusercontent.com/77200332/134783109-f5505b86-6f17-4232-8ed8-f6805acb8863.png)
+![image](https://user-images.githubusercontent.com/77200332/134783120-054a2306-fce9-4e31-b676-fa469c034332.png)
+
+
+%%
+%OUTPUT
+![image](https://user-images.githubusercontent.com/77200332/134783018-59799e63-7544-4364-8591-7210842df0b0.png)
+![image](https://user-images.githubusercontent.com/77200332/134783030-62f91cbf-a8bb-4df8-8af8-345d169bd9d0.png)
 
