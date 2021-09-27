@@ -1,3 +1,11 @@
+PRE-REQUISITES------->
+
+![image](https://user-images.githubusercontent.com/77200332/134896951-f3fb0fa5-c47d-40d3-9fa7-5561b5d87fd9.png)
+![FGFGGGG](https://user-images.githubusercontent.com/77200332/134897422-c747fd76-553e-4cde-8f9d-095ca9300739.png)
+
+MAIN PROGRAM------------>
+
+
 # Solution-for-a-1D-Steady-State-Diffusion-Equation
 The solution for the 1D steady state diffusion equation (i.e. d^2U/dx^2 = 0), on analytically solving, we get the equation of straight line. I proved the same using MATLAB. 
 
